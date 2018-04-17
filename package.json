@@ -1,0 +1,33 @@
+{
+  "name": "mj-web-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for web projects using gulp, jQuery and Bootstrap 4.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "dev": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurmbandeira/mj-web-boilerplate.git"
+  },
+  "author": "Arthur Manuel Bandeira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthurmbandeira/mj-web-boilerplate/issues"
+  },
+  "homepage": "https://github.com/arthurmbandeira/mj-web-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.5.0",
+    "gulp-preprocess": "^2.0.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.0",
+    "run-sequence": "^2.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1"
+  }
+}
