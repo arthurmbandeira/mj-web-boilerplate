@@ -1,7 +1,8 @@
 # MJ Web Boilerplate
+[![dependencies Status](https://david-dm.org/arthurmbandeira/mj-web-boilerplate/status.svg)](https://david-dm.org/arthurmbandeira/mj-web-boilerplate) [![devDependencies Status](https://david-dm.org/arthurmbandeira/mj-web-boilerplate/dev-status.svg)](https://david-dm.org/arthurmbandeira/mj-web-boilerplate?type=dev)
+
 Boilerplate for web projects using gulp, jQuery and Bootstrap 4.
 
-[![dependencies Status](https://david-dm.org/arthurmbandeira/mj-web-boilerplate/status.svg)](https://david-dm.org/arthurmbandeira/mj-web-boilerplate) [![devDependencies Status](https://david-dm.org/arthurmbandeira/mj-web-boilerplate/dev-status.svg)](https://david-dm.org/arthurmbandeira/mj-web-boilerplate?type=dev)
 
 ## How to
 
